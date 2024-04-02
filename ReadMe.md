@@ -15,7 +15,7 @@ We're dedicated to making robotics accessible to all, regardless of engineering 
 
 ## Team Structure
 
-FRC Team 9076 operates under the leadership of experienced mentors and coaches, who provide guidance, support, and mentorship to team members. The team is organized into several subteams, each responsible for specific aspects of robot design, construction, programming, and outreach.
+FRC Team 9076 operates under the leadership of experienced students and coaches, who provide guidance, support, and mentorship to team members. The team is organized into several subteams, each responsible for specific aspects of robot design, construction, programming, and outreach.
 
 ### Subteams:
 
@@ -23,4 +23,4 @@ FRC Team 9076 operates under the leadership of experienced mentors and coaches, 
 2. **CAD Team:** The cad team is a mechanical subteam Specializes in designing the core aspects of the robot.
 3. **Electrical Team:** Handles the electrical systems of the robot, including wiring, circuit design, and integration of sensors and actuators.
 4. **Programming Team:** Develops software for controlling the robot, including autonomous routines, teleoperated controls, and sensor integration.
-5. **communications team:** Promotes the team in the community, organizes outreach events, manage and get sponsorships and manages team communications and media relations.
+5. **communications team:** Promotes the team in the community, organizes events, manage and get sponsorships and manages team communications and media relations.
